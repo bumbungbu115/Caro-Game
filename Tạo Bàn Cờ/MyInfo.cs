@@ -12,7 +12,7 @@ namespace Tạo_Bàn_Cờ
 {
     public partial class MyInfo : Form
     {
-
+        ///Show ur history round's score at here
         public static string username;
         string user = Login.title;
         string query1 = "select * from INFO where TENTK = '" + username + "'";
