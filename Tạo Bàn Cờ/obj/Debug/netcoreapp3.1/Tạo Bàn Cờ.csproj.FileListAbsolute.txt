@@ -1,0 +1,970 @@
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form1.resources
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form1.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form1.resources
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form2.resources
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form4.resources
+C:\Users\admin\Downloads\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form5.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro(update-03-05-2021).2\GameCaro(update-4-23-2021).2\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form3.resources
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\nguyencute\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\New folder (2)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\New folder (3)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\New folder (4)\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-13-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+C:\Users\Maxsys\Desktop\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+C:\Users\DELL\Downloads\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\CaroGame(update-16-5-2021)Nghi\CaroGame(update-15-5-2021).2 (1)\CaroGame(update-15-5-2021).2\CaroGame\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\GAME_CARO(update-16-5-2021)\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\New folder\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.AIChess.resources
+D:\School\Nam2\HK2\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Graphic.resources
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GameCaro\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.AIChess.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Graphic.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\GameCaro\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.AIChess.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\HK2\GameCaro\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form1.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.AIChess.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form1.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.AIChess.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form1.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.AIChess.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form1.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\GameCaro\NEw\GameCaro26-6\GameCaro27-6\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Nam2\Tạo Bàn Cờ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.aboutgame.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.AIChess.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.cachchoi.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.CuaSoChinh.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Dangky.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Đangnhap.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Form1.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Login.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.MyInfo.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Play.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo_Bàn_Cờ.Ranking.resources
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.csproj.CopyComplete
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\Tạo Bàn Cờ\obj\Debug\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache

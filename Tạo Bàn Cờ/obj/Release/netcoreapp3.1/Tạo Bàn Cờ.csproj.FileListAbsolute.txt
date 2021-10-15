@@ -1,0 +1,16 @@
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Release\netcoreapp3.1\Tạo Bàn Cờ.exe
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Release\netcoreapp3.1\Tạo Bàn Cờ.deps.json
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Release\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.json
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Release\netcoreapp3.1\Tạo Bàn Cờ.runtimeconfig.dev.json
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Release\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\bin\Release\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo Bàn Cờ.csprojAssemblyReference.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo_Bàn_Cờ.Form1.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo_Bàn_Cờ.Properties.Resources.resources
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo Bàn Cờ.csproj.GenerateResource.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfoInputs.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo Bàn Cờ.AssemblyInfo.cs
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo Bàn Cờ.csproj.CoreCompileInputs.cache
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo Bàn Cờ.dll
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo Bàn Cờ.pdb
+D:\School\Nam2\HK2\LaptrinhMang\Đồ Án\GameCaro\Tạo Bàn Cờ\Tạo Bàn Cờ\obj\Release\netcoreapp3.1\Tạo Bàn Cờ.genruntimeconfig.cache
