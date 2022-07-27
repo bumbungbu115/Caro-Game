@@ -2,11 +2,8 @@
 
 ## Description:
 
-<div style="text-align: justify"> ***Cờ Caro*** is a game like TicTacToe in which two players alternately
-put Xs and Os in compartments of a figure formed by two vertical lines
-crossing two horizontal lines and each tries to get a row of **five Xs**
-or **five Os** before the opponent does. Besides, 2 players can chat
-with each other in LAN. </div>
+
+***Cờ Caro*** is a game like TicTacToe in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of **five Xs** or **five Os** before the opponent does. Besides, 2 players can chat with each other in LAN.
 
 ***Cờ Caro*** has 2 playing modes:
 
