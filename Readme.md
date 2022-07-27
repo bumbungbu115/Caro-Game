@@ -10,9 +10,9 @@ with each other in LAN.
 
 ***Cờ Caro*** has 2 playing modes:
 
--   LAN -- Versus player
+-   Versus player
 
--   AI -- Versus bot
+-   Versus AI bot
 
 ## Dependencies:
 
@@ -38,55 +38,45 @@ with each other in LAN.
 
 -   Home Display
 
-![](media/image1.png){width="4.216403105861767in"
-height="3.3699693788276464in"}
+![image1](https://user-images.githubusercontent.com/81474312/181385562-ae23d9a8-9000-4794-a8f4-26cf880e912d.png)
 
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
-| \(1\) Player's name               | > \(5\) Join in VS Player mode    |
-|-----------------------------------|-----------------------------------|
-| \(2\) Player's Info including     | > \(6\) Join in VS AI bot mode    |
-| history                           |                                   |
-|-----------------------------------|-----------------------------------|
-| \(3\) Ranking                     | > \(7\) About game                |
-|-----------------------------------|-----------------------------------|
-| \(4\) Sign-out                    | > \(8\) XO Symbol changing        |
-|-----------------------------------|-----------------------------------|
+\(1\) Player's name   
+\(2\) Player's Info including history                    
+\(3\) Ranking                   
+\(4\) Sign-out                 
+\(5\) Join in VS Player mode   
+\(6\) Join in VS AI bot mode   
+\(7\) About game    
+\(8\) XO Symbol changing  
+
 
 -   VS Player-mode Display
 
-![](media/image2.png){width="5.291666666666667in"
-height="4.200768810148731in"}
+![image2](https://user-images.githubusercontent.com/81474312/181385668-2e73be48-ec48-4f91-9263-efe8452946af.png)
 
-|-----------------------------------|-----------------------------------|
-| \(1\) Player's name -- Chess      | > \(5\) Undo button               |
-| Symbol                            |                                   |
-|-----------------------------------|-----------------------------------|
-| \(2\) LAN connection button       | > \(6\) Restart round button      |
-|-----------------------------------|-----------------------------------|
-| \(3\) Game's board                | > \(7\) Back to Home button       |
-|-----------------------------------|-----------------------------------|
-| \(4\) Countdown time              | > \(8\) LAN Chat area             |
-|-----------------------------------|-----------------------------------|
+\(1\) Player's name -- Chess Symbol  
+\(2\) LAN connection button          
+\(3\) Game's board                   
+\(4\) Countdown time           
+\(5\) Undo button  
+\(6\) Restart round button   
+\(7\) Back to Home button   
+\(8\) LAN Chat area   
+
 
 -   VS AI-mode Display
 
-![](media/image3.png){width="5.2994575678040245in"
-height="2.7800426509186353in"}
+![image3](https://user-images.githubusercontent.com/81474312/181385686-a979086d-576d-4a17-bcce-5cb6eb6b3b33.png)
 
-|-----------------------------------|-----------------------------------|
-| > \(1\) Player's name -- Chess    | > \(5\) Restart button            |
-| > Symbol                          |                                   |
-|-----------------------------------|-----------------------------------|
-| > \(2\) Game's board              | > \(6\) Back to Home button       |
-|-----------------------------------|-----------------------------------|
-| > \(3\) Countdown time            | > \(7\) Menu bar                  |
-|-----------------------------------|-----------------------------------|
+\(1\) Player's name -- Chess Symbol  
+\(2\) Game's board       
+\(3\) Countdown time                  
+\(4\) Undo Button        
+\(5\) Restart round button    
+\(6\) Back to Home button   
+\(7\) Menu bar  
 
 ## References:
 
